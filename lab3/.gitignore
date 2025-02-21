@@ -1,0 +1,40 @@
+# Flutter/Dart specific files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+generated/
+
+# VS Code specific files
+.vscode/
+
+# macOS specific files
+*.DS_Store
+
+# Android specific files
+android/.gradle/
+android/app/key.jks
+android/key.properties
+android/local.properties
+
+# iOS specific files
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Generated.xcconfig
+ios/Flutter/flutter_export_environment.sh
+
+# Web specific files
+web/.dart_tool/
+
+# Other system files
+*.iml
+*.log
+*.pyc
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
